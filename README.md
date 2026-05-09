@@ -45,6 +45,7 @@
 - [SEMrush](https://www.semrush.com/) - Provides keyword research, competitor analysis, and site auditing tools.
 - [Moz Pro](https://moz.com/products/pro) - Offers a suite of SEO tools, including keyword research, link analysis, and site auditing.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - A powerful website crawler that helps with technical SEO audits.
+- [LLMs.txt Generator](https://llms-txt-generator.net/) - Free AI SEO tool that generates a spec-compliant llms.txt file for your website so LLMs (ChatGPT, Claude, Perplexity) can efficiently crawl and understand your content.
 
 ## Guides and Tutorials
 - [Google's Search Engine Optimization (SEO) Starter Guide](https://support.google.com/webmasters/answer/7451184) - A comprehensive guide by Google on the basics of SEO.
