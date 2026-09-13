@@ -46,6 +46,7 @@
 - [SEMrush](https://www.semrush.com/) - Provides keyword research, competitor analysis, and site auditing tools.
 - [Moz Pro](https://moz.com/products/pro) - Offers a suite of SEO tools, including keyword research, link analysis, and site auditing.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - A powerful website crawler that helps with technical SEO audits.
+- [squirrelscan](https://squirrelscan.com/) - Open source CLI that audits a site against 260+ SEO, performance, security and accessibility rules and hands coding agents exact fixes.
 
 ## Guides and Tutorials
 - [Google's Search Engine Optimization (SEO) Starter Guide](https://support.google.com/webmasters/answer/7451184) - A comprehensive guide by Google on the basics of SEO.
