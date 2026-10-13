@@ -53,6 +53,7 @@
 - [Backlinko's SEO Copywriting Guide](https://backlinko.com/seo-copywriting) - Offers tips and strategies for writing SEO-friendly content.
 - [Yoast SEO Blog's WordPress SEO Guide](https://yoast.com/wordpress-seo/) - A guide specifically tailored to optimizing WordPress websites.
 - [Search Engine Journal's Link Building Guide](https://www.searchenginejournal.com/link-building-guide/) - A comprehensive guide to building high-quality backlinks.
+- [SEO Audit Checklist](https://github.com/seovoro/seo-audit-checklist) - A free 45-point checklist for auditing a website's SEO.
 
 ## Communities
 - [r/SEO](https://www.reddit.com/r/SEO/) - A Reddit community dedicated to SEO discussions, news, and case studies.
